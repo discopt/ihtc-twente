@@ -12,6 +12,7 @@ authors:
     family-names: Daniela
     email: d.guericke@utwente.nl
     affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-0668-9094'
   - given-names: Hulst
     name-particle: van der
     family-names: Rolf P
@@ -26,6 +27,7 @@ authors:
     email: i.m.w.schrader@utwente.nl
     family-names: Ieke M.W.
     affiliation: University of Twente
+    orcid: 'https://orcid.org/0009-0004-1052-9327'
   - given-names: Walter
     family-names: Matthias
     email: m.walter@utwente.nl
