@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Code for IHTC-2024 participation of Team Twente
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Guericke
+    family-names: Daniela
+    email: d.guericke@utwente.nl
+    affiliation: University of Twente
+  - given-names: Hulst
+    name-particle: van der
+    family-names: Rolf P
+    email: .p.vanderhulst@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-5941-3016'
+  - given-names: Karimpour
+    family-names: Asal
+    email: a.karimpour@utwente.nl
+    affiliation: University of Twente
+  - given-names: Schrader
+    email: i.m.w.schrader@utwente.nl
+    family-names: Ieke M.W.
+    affiliation: University of Twente
+  - given-names: Walter
+    family-names: Matthias
+    email: m.walter@utwente.nl
+    affiliation: University of Twente
+    orcid: 'https://orcid.org/0000-0002-6615-5983'
+repository-code: 'https://github.com/discopt/ihtc-twente'
+license: MIT
